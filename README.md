@@ -1,0 +1,14 @@
+# qssi-user 13 TKQ1.221220.001 2307092309 release-keys
+- manufacturer: nothing
+- platform: taro
+- codename: Pong
+- flavor: qssi-user
+- release: 13
+- id: TKQ1.221220.001
+- incremental: 2307092309
+- tags: release-keys
+- fingerprint: Nothing/Pong/Pong:12/SKQ1.221207.001/2307092309:user/release-keys
+- is_ab: true
+- brand: Nothing
+- branch: qssi-user-13-TKQ1.221220.001-2307092309-release-keys
+- repo: nothing_pong_dump
